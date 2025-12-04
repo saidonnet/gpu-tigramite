@@ -1,0 +1,12 @@
+# Core Dependencies
+numpy>=1.24.0
+tigramite>=5.0.0
+torch>=2.0.0
+
+# Multi-GPU Support
+ray[default]>=2.7.0
+
+# Optional: For examples and benchmarks
+# matplotlib>=3.7.0
+# pandas>=2.0.0
+# seaborn>=0.12.0
