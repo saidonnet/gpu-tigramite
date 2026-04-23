@@ -363,7 +363,7 @@ This library builds upon open-source work and maintains GPL-3.0 licensing to ens
 
 ## 🔗 Links
 
-- **Issues**: [https://github.com/gpu-tigramite/gpu-tigramite/issues/](https://github.com/saidonnet/gpu-tigramite/issues)
+- **Issues**: https://github.com/saidonnet/gpu-tigramite/issues/
 - **Tigramite**: https://github.com/jakobrunge/tigramite
 
 ---
