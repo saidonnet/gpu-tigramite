@@ -363,10 +363,7 @@ This library builds upon open-source work and maintains GPL-3.0 licensing to ens
 
 ## 🔗 Links
 
-- **PyPI**: https://pypi.org/project/gpu-tigramite/
-- **GitHub**: https://github.com/gpu-tigramite/gpu-tigramite
-- **Documentation**: https://gpu-tigramite.readthedocs.io
-- **Issues**: https://github.com/gpu-tigramite/gpu-tigramite/issues
+- **Issues**: [https://github.com/gpu-tigramite/gpu-tigramite/issues/](https://github.com/saidonnet/gpu-tigramite/issues)
 - **Tigramite**: https://github.com/jakobrunge/tigramite
 
 ---
