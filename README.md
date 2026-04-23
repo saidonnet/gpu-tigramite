@@ -332,7 +332,7 @@ If you use this library in your research, please cite:
   title={GPU-Tigramite: GPU-Accelerated Causal Discovery for Time Series},
   author={GPU-Tigramite Contributors},
   year={2025},
-  url={https://github.com/gpu-tigramite/gpu-tigramite},
+  url={[https://github.com/gpu-tigramite/gpu-tigramite](https://github.com/saidonnet/gpu-tigramite)},
   note={50-430x faster conditional mutual information estimation with multi-GPU support}
 }
 ```
